@@ -1,0 +1,26 @@
+
+a:link {
+    background-color: #f0d3ea;
+    text-decoration: none;
+    color: #fffef7;
+    padding: 3px;
+    font-weight: 300;
+    font-size: 20px;
+    font-family: Arial Rounded MT Bold;
+}
+
+a:visited {
+    color: #fffef7;
+    text-decoration: none;
+}
+
+a:hover {
+background-color: #aac78a
+color: #fdfbc1
+}
+
+a:active {
+background-color: #faf7a9;
+font-size: 20px;
+    
+}
